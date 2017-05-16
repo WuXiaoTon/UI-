@@ -14,6 +14,7 @@
 字体排布过于紧密，让浏览者容易产生视觉疲劳。   
 
 - 新华网  
+![DGQ7symVt6rucMBQPHdEP3.png](http://7xjtx2.com1.z0.glb.clouddn.com/media/kindeditor/upload2017/0515/DGQ7symVt6rucMBQPHdEP3.png)  
 
  网站首部是当前最新的热点时事的图片，让人一目了然。
 
@@ -26,6 +27,7 @@
 重点新闻字号大突出显示，其他新闻排布整齐  
 
 - 中国政府网  
+![MykqFzSBV5iu7yRzhaNFQT.png](http://7xjtx2.com1.z0.glb.clouddn.com/media/kindeditor/upload2017/0515/MykqFzSBV5iu7yRzhaNFQT.png)  
 
  网站左上的中华人民共和国中央人民政府的标志十分明显。
 
