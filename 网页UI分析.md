@@ -1,6 +1,6 @@
 # 网页UI分析
 - 新浪网：   
-![s2oczwb6dAvyVvbQPuatDZ.png]http://7xjtx2.com1.z0.glb.clouddn.com/media/kindeditor/upload2017/0515/s2oczwb6dAvyVvbQPuatDZ.png
+![s2oczwb6dAvyVvbQPuatDZ.png](http://7xjtx2.com1.z0.glb.clouddn.com/media/kindeditor/upload2017/0515/s2oczwb6dAvyVvbQPuatDZ.png)  
  整体背景为白色，其余边框部分为网站主色橙色，简洁明了。
 
 网站最上的搜索框明显，导航栏分类明确。
